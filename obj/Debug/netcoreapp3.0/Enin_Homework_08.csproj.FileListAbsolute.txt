@@ -1,0 +1,13 @@
+C:\Users\Евгения\Desktop\Skillbox\8\obj\Debug\netcoreapp3.0\Enin_Homework_08.csprojAssemblyReference.cache
+C:\Users\Евгения\Desktop\Skillbox\8\obj\Debug\netcoreapp3.0\Enin_Homework_08.AssemblyInfoInputs.cache
+C:\Users\Евгения\Desktop\Skillbox\8\obj\Debug\netcoreapp3.0\Enin_Homework_08.AssemblyInfo.cs
+C:\Users\Евгения\Desktop\Skillbox\8\bin\Debug\netcoreapp3.0\Enin_Homework_08.exe
+C:\Users\Евгения\Desktop\Skillbox\8\bin\Debug\netcoreapp3.0\Enin_Homework_08.deps.json
+C:\Users\Евгения\Desktop\Skillbox\8\bin\Debug\netcoreapp3.0\Enin_Homework_08.runtimeconfig.json
+C:\Users\Евгения\Desktop\Skillbox\8\bin\Debug\netcoreapp3.0\Enin_Homework_08.runtimeconfig.dev.json
+C:\Users\Евгения\Desktop\Skillbox\8\bin\Debug\netcoreapp3.0\Enin_Homework_08.dll
+C:\Users\Евгения\Desktop\Skillbox\8\bin\Debug\netcoreapp3.0\Enin_Homework_08.pdb
+C:\Users\Евгения\Desktop\Skillbox\8\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Евгения\Desktop\Skillbox\8\obj\Debug\netcoreapp3.0\Enin_Homework_08.csproj.CopyComplete
+C:\Users\Евгения\Desktop\Skillbox\8\obj\Debug\netcoreapp3.0\Enin_Homework_08.dll
+C:\Users\Евгения\Desktop\Skillbox\8\obj\Debug\netcoreapp3.0\Enin_Homework_08.pdb
